@@ -2,12 +2,12 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Electrical Services on Top Line Electric, LLC - Traverse City, Michigan Electrical Services</title>
-    <link>localhost:1313/electrical-services/</link>
+    <link>/topline-electric/electrical-services/</link>
     <description>Recent content in Electrical Services on Top Line Electric, LLC - Traverse City, Michigan Electrical Services</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     
-	<atom:link href="localhost:1313/electrical-services/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="/topline-electric/electrical-services/index.xml" rel="self" type="application/rss+xml" />
     
     
   </channel>
