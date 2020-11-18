@@ -1,4 +1,4 @@
-baseURL = "localhost:1313/"
+baseURL = "/topline-electric"
 languageCode = "en-us"
 title = "Top Line Electric, LLC - Traverse City, Michigan Electrical Services"
 publishDir = "docs"
