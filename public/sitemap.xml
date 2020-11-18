@@ -3,15 +3,33 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://toplineelectric.us/categories/</loc>
+    <loc>localhost:1313/electrical-services-traverse-city/</loc>
+    <lastmod>2014-07-07T22:16:34+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://toplineelectric.us/tags/</loc>
+    <loc>localhost:1313/</loc>
+    <lastmod>2014-07-07T22:16:34+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://toplineelectric.us/</loc>
+    <loc>localhost:1313/about-us/</loc>
+  </url>
+  
+  <url>
+    <loc>localhost:1313/categories/</loc>
+  </url>
+  
+  <url>
+    <loc>localhost:1313/contact-us/</loc>
+  </url>
+  
+  <url>
+    <loc>localhost:1313/electrical-services/</loc>
+  </url>
+  
+  <url>
+    <loc>localhost:1313/tags/</loc>
   </url>
   
 </urlset>

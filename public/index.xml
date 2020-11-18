@@ -1,14 +1,25 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Top Line Electric, LLC - Traverse City, Michigan Electrical Services</title>
-    <link>https://toplineelectric.us/</link>
-    <description>Recent content on Top Line Electric, LLC - Traverse City, Michigan Electrical Services</description>
+    <title>Home on Top Line Electric, LLC - Traverse City, Michigan Electrical Services</title>
+    <link>localhost:1313/</link>
+    <description>Recent content in Home on Top Line Electric, LLC - Traverse City, Michigan Electrical Services</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
+    <lastBuildDate>Mon, 07 Jul 2014 22:16:34 +0000</lastBuildDate>
     
-	<atom:link href="https://toplineelectric.us/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="localhost:1313/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Electrical Services</title>
+      <link>localhost:1313/electrical-services-traverse-city/</link>
+      <pubDate>Mon, 07 Jul 2014 22:16:34 +0000</pubDate>
+      
+      <guid>localhost:1313/electrical-services-traverse-city/</guid>
+      <description>Electrical Services For All Your Electrical Needs in Northern Michigan Top Line Electric, located in Traverse City, MI, performs electrical construction and repair including remodeling and retrofit electrical service for residential clients and commercial clients plus property management companies. Serving all of Northern Michigan Top Line Electric is second to none in responsiveness.
+Our service department is staffed by professional electricians who share our companies commitment to quality, responsive workmanship. With experienced technicians we are capable of helping our customers with emergency and nonemergency service calls regardless of size efficiently and effectively.</description>
+    </item>
     
   </channel>
 </rss>
