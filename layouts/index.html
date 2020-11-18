@@ -14,7 +14,7 @@
         <div class="six columns">
           {{with .Params }}
             <figure>
-              <img src="{{.featuredImage}}" alt="{{.featuredImageAlt}}" class="u-max-full-width">
+              <img src="{{.Site.BaseURL}}{{.featuredImage}}" alt="{{.featuredImageAlt}}" class="u-max-full-width">
             </figure>
             {{ end }}
         </div>
