@@ -3,6 +3,8 @@ languageCode = "en-us"
 title = "Top Line Electric, LLC - Traverse City, Michigan Electrical Services"
 publishDir = "docs"
 
+custom_css = ["/css/custom.css"]
+
 [markup]
 
 [markup.goldmark]
