@@ -1,5 +1,6 @@
 ---
 title: "Home"
+menuTitle: "Top Line Electric, Your Electrical Connection!"
 subtitle: "Whether you’re a small business, large business or a home owner, we can offer you a professional electrical service experience suited to your individual needs."
 featuredImage: images/home-page-featured-image.png
 featuredImageAlt: "top line electrical truck"
