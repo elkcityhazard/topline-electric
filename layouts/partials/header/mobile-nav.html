@@ -1,0 +1,39 @@
+<div class="row header-top-nav">
+    <div class="row">
+        <a href="/" class="center" title="top line electrical home page"><img src="/images/header-logo.png"
+                alt="logo"></a>
+        <button class="row u-full-width" id="mobile-activate">
+            <span>Go to...</span>
+            <div class="hamburger-container">
+                <span class="hamburger"></span>
+            </div>
+        </button>
+
+        <!-- mobile nav start -->
+        <nav class="mobile-nav">
+            <ul>
+                {{ $currentPage := . }}
+                {{ range .Site.Menus.main }}
+                <li class="{{if or ($currentPage.IsMenuCurrent "main" .) ($currentPage.HasMenuCurrent "main" .) }} active{{end}}">
+                    <a href="{{ .URL }}">
+                        {{ .Pre }}
+                        <span>{{ .Name }}</span>
+                    </a>
+                </li>
+                {{ end }}
+            </ul>
+        </nav>
+
+        <!-- desktop nav start -->
+        <nav class="desktop-nav">
+            <ul>
+                {{ $currentPage := . }}
+                {{ range .Site.Menus.main }}
+                <li {{ if or ($.IsMenuCurrent "main" .) ($.IsMenuCurrent "main" .) }} class="active"{{ end }}>
+                    <a href="{{ .URL }}">{{ .Name }}</a>
+                </li>
+                {{ end }}
+            </ul>
+        </nav>
+    </div>
+</div>

@@ -1,3 +1,102 @@
-baseURL = "http://example.org/"
+baseURL = "localhost:1313/"
 languageCode = "en-us"
-title = "My New Hugo Site"
+title = "Top Line Electric, LLC - Traverse City, Michigan Electrical Services"
+
+[markup]
+
+[markup.goldmark]
+
+[markup.goldmark.extensions]
+definitionList = true
+footnote = true
+linkify = true
+strikethrough = true
+table = true
+taskList = true
+typographer = true
+
+[markup.goldmark.parser]
+attribute = true
+autoHeadingID = true
+autoHeadingIDType = "github"
+
+[markup.goldmark.renderer]
+hardWraps = false
+unsafe = true
+xhtml = false
+
+SectionPagesMenu = "main"
+
+[menu]
+
+# [[menu.main]]
+# identifier = "contact"
+# name = "Contact Us"
+# title = "Contact Us"
+# url = "/contact-us"
+
+# [[menu.main]]
+# identifier = "about"
+# name = "About Us"
+# title = "About Us"
+# url = "/about-us"
+
+# [[menu.main]]
+# identifier = "electrical"
+# name = "Electrical Services"
+# title = "Electrical Services"
+# url = "/electrical-serivices"
+
+# [[menu.main]]
+# identifier = "home"
+# name = "Home"
+# title = "Home"
+# url = "/"
+
+[[menu.services]]
+identifier = "Automation Controls"
+name = "Automation Controls"
+title = "Automation Controls"
+url = "/electrical-services-traverse-city/automation-controls"
+
+[[menu.services]]
+identifier = "Residential Electricians"
+name = "Residential Electricians"
+title = "Residential"
+url = "/electrical-services-traverse-city/residential-electricians"
+
+[[menu.services]]
+identifier = "Commercial Electricians"
+name = "Commercial Electricians"
+title = "Commercial Electricians"
+url = "/electrical-services-traverse-city/commercial-electricians"
+
+[[menu.services]]
+identifier = "Industrial Electricians"
+name = "Industrial Electricians"
+title = "Industrial Electricians"
+url = "/electrical-services/traverse-city/industrial-electricians"
+
+[[menu.services]]
+identifier = "New Construction Electricians"
+name = "New Construction Electricians"
+title = "New Construction Electricians"
+url = "/electrical-services/traverse-city/new-construction-electricians"
+
+[[menu.services]]
+identifier = "Remodel Electricians"
+name = "Remodel Electricians"
+title = "Remodel Electricians"
+url = "/electrical-services/traverse-city/remodel-home-electricians"
+
+[[menu.services]]
+identifier = "Emergency Services"
+name = "Emergency Services"
+title = "Emergency Services"
+url = "/electrical-services/traverse-city/emergency-electrical-services"
+
+[[menu.services]]
+identifier = "Facilty Maintenace Services"
+name = "Facilty Maintenace Services"
+title = "Facilty Maintenace Services"
+url = "/electrical-services/traverse-city/facilty-maintenance"
