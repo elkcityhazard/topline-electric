@@ -1,6 +1,11 @@
 const menuBtn = document.getElementById('mobile-activate');
 const menu = document.querySelector('.mobile-nav ul');
 const menuItems = document.querySelectorAll('.mobile-nav ul li');
+let listItems = document.querySelectorAll('.desktop-nav ul li');
+let links = document.querySelectorAll('.desktop-nav ul li a');
+let topRow = document.querySelector('.row .header-top-nav .row .desktop-nav');
+let logoImg = document.querySelector('a.center img');
+let navContainer = document.querySelector('.header-top-nav')
 let toggle = false;
 
 
@@ -21,16 +26,19 @@ menuBtn.addEventListener('click', () => {
 })
 
 /***********
- * Active Class
+ * Sticky Header
  */
 
- (function() {
-let path = window.location.pathname;
-let links = document.querySelectorAll('.desktop-nav > ul > li');
+ window.addEventListener('scroll', () => {
+     if (document.body.scrollTop > 80 || document.documentElement.scrollTop > 80) {
+        navContainer.style.padding = ".0em"
+    } else if (document.body.scrollTop < 80 || document.documentElement.scrollTop < 80) {
+        navContainer.style.padding = "1em"
+        }
 
+ })
+ 
 
- })()
-   
 
 
 

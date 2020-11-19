@@ -35,7 +35,7 @@ h1 {
     font-size: 32px;
     font-style: italic;
     line-height: 1.5;
-    padding: 1em 1em 0 1em;
+    padding: 0 1em 0 1em;
     text-align: center;
 }
 h2 {
@@ -79,7 +79,39 @@ a {
 
 body {
     margin: 0 auto;
-    max-width: 1000px;
+    max-width: 1060px;
+}
+
+footer {
+    background: #424141;
+}
+
+footer ul {
+    list-style: none;
+}
+
+.three > ul > span {
+    display: block;
+    font-size: 13px;
+    font-weight: 600;
+    margin-bottom: 1em;
+    text-align: center;
+}
+
+.three:first-of-type > ul > span {
+    margin-top: 1em;
+}
+
+footer ul li {
+    text-align: center;
+}
+
+footer a {
+    color: #e6e6e6;
+}
+
+footer span a {
+    color: #f7b516;
 }
 
 /*****************
@@ -127,6 +159,8 @@ body {
     background-repeat: repeat;
     border-top: 2px solid #e5e5e5;
     padding: 1em;
+    top: -15px;
+    z-index: 1;
 }
 
 .header-top-nav button {
@@ -240,19 +274,31 @@ aside ul li {
     **Header Layouts**
     ******************/ 
 
+    
+
     .header-top-banner {
         max-height: 44px;
         padding-left: 2em;
         text-align: left;
     }
 
+    .header-top-nav {
+        // max-height: 86px;
+        padding: 2em;
+        position: sticky;
+        overflow: hidden;
+        top: 0;
+        transition: 250ms ease-in-out;
+    }
+
     .header-top-nav .row {
-        align-items: center;
+        align-items: flex-end;
         display: flex;
         justify-content: space-between;
         max-height: 80px;
         padding-top: 0;
     }
+
 
     .header-top-nav .row a {
         display: inline;
@@ -262,6 +308,13 @@ aside ul li {
         margin: initial;
         padding-left: 2em;
     }
+
+    a.center img {
+        height: 100%;
+        margin-bottom: 1em;
+        width: auto;
+    }
+
 
     #mobile-activate {
         display: none;
@@ -273,6 +326,10 @@ aside ul li {
 
     .desktop-nav {
         display: block;
+    }
+
+    .desktop-nav > a >img {
+        max-height: 100%;
     }
 
     .desktop-nav ul {
@@ -288,6 +345,8 @@ aside ul li {
         display: inline-block;
         position: relative;
         height: 100%;
+        max-height: 100%;
+        transition: 250ms ease;
     }
 
     .desktop-nav ul li a {
@@ -305,21 +364,27 @@ aside ul li {
         display: block;
         height: 3px;
         left: 0;
+        margin: 0 auto;
         opacity: 0;
         position: absolute;
         top: -37px;
+        transform: scaleX(0);
+        transform-origin: center;
         transition: 250ms ease-in-out;
         width: 100%;
     }
 
     .desktop-nav ul li:hover::before {
         opacity: 1;
+        transform: scaleX(.9);
         transition: 250ms ease-in-out;
     }
 
     .desktop-nav ul li.active::before {
         opacity: 1;
+        transform: scaleX(.9)
     }
+
 
 
     /*****************
@@ -344,10 +409,12 @@ aside ul li {
         background-size: cover;
     }
 
-
-
     main {
         background: #fff;
+    }
+
+    .three:first-of-type > ul > span {
+        margin-top: initial;
     }
     
 }

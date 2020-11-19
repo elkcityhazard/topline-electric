@@ -10,15 +10,17 @@
     <link rel="stylesheet" href="{{ .Site.BaseURL }}/css/custom.css">
 </head>
 <body>
-    <div class="row">
+    <div class="wrapper">
         {{ partial "header/site-header.html" . }}
-        {{ block "main" . }}
+        <div class="row u-max-full-width">
+            {{ block "main" . }}
+        {{ end }}
+    
+        {{ block "footer" . }}
+        {{ partial "footer/footer.html" . }}
     {{ end }}
-
-    {{ block "footer" . }}
-    {{ partial "footer/footer.html" . }}
-{{ end }}
-
+    
+        </div>
     </div>
 </body>
 </html>

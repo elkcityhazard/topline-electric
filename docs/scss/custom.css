@@ -401,16 +401,18 @@ aside ul li {
     background: #fff;
     margin-bottom: 0;
     padding-bottom: 2em;
+
   }
 
   footer {
     margin-bottom: 11px;
+  
   }
 
   footer::before {
     background: #4862c5;
     display: block;
-    content: "";
+    content: '';
     height: 20px;
   }
 
@@ -439,6 +441,5 @@ aside ul li {
     text-align: left;
   }
 }
-/*# sourceMappingURL=custom.css.map */
 
 /*# sourceMappingURL=custom.css.map */
