@@ -55,50 +55,50 @@ SectionPagesMenu = "main"
 # title = "Home"
 # url = "/"
 
-[[menu.services]]
-identifier = "Automation Controls"
-name = "Automation Controls"
-title = "Automation Controls"
-url = "/electrical-services-traverse-city/automation-controls"
+# [[menu.services]]
+# identifier = "Automation Controls"
+# name = "Automation Controls"
+# title = "Automation Controls"
+# url = "/electrical-services-traverse-city/automation-controls"
 
-[[menu.services]]
-identifier = "Residential Electricians"
-name = "Residential Electricians"
-title = "Residential"
-url = "/electrical-services-traverse-city/residential-electricians"
+# [[menu.services]]
+# identifier = "Residential Electricians"
+# name = "Residential Electricians"
+# title = "Residential"
+# url = "/electrical-services-traverse-city/residential-electricians"
 
-[[menu.services]]
-identifier = "Commercial Electricians"
-name = "Commercial Electricians"
-title = "Commercial Electricians"
-url = "/electrical-services-traverse-city/commercial-electricians"
+# [[menu.services]]
+# identifier = "Commercial Electricians"
+# name = "Commercial Electricians"
+# title = "Commercial Electricians"
+# url = "/electrical-services-traverse-city/commercial-electricians"
 
-[[menu.services]]
-identifier = "Industrial Electricians"
-name = "Industrial Electricians"
-title = "Industrial Electricians"
-url = "/electrical-services/traverse-city/industrial-electricians"
+# [[menu.services]]
+# identifier = "Industrial Electricians"
+# name = "Industrial Electricians"
+# title = "Industrial Electricians"
+# url = "/electrical-services/traverse-city/industrial-electricians"
 
-[[menu.services]]
-identifier = "New Construction Electricians"
-name = "New Construction Electricians"
-title = "New Construction Electricians"
-url = "/electrical-services/traverse-city/new-construction-electricians"
+# [[menu.services]]
+# identifier = "New Construction Electricians"
+# name = "New Construction Electricians"
+# title = "New Construction Electricians"
+# url = "/electrical-services/traverse-city/new-construction-electricians"
 
-[[menu.services]]
-identifier = "Remodel Electricians"
-name = "Remodel Electricians"
-title = "Remodel Electricians"
-url = "/electrical-services/traverse-city/remodel-home-electricians"
+# [[menu.services]]
+# identifier = "Remodel Electricians"
+# name = "Remodel Electricians"
+# title = "Remodel Electricians"
+# url = "/electrical-services/traverse-city/remodel-home-electricians"
 
-[[menu.services]]
-identifier = "Emergency Services"
-name = "Emergency Services"
-title = "Emergency Services"
-url = "/electrical-services/traverse-city/emergency-electrical-services"
+# [[menu.services]]
+# identifier = "Emergency Services"
+# name = "Emergency Services"
+# title = "Emergency Services"
+# url = "/electrical-services/traverse-city/emergency-electrical-services"
 
-[[menu.services]]
-identifier = "Facilty Maintenace Services"
-name = "Facilty Maintenace Services"
-title = "Facilty Maintenace Services"
-url = "/electrical-services/traverse-city/facilty-maintenance"
+# [[menu.services]]
+# identifier = "Facilty Maintenace Services"
+# name = "Facilty Maintenace Services"
+# title = "Facilty Maintenace Services"
+# url = "/electrical-services/traverse-city/facilty-maintenance"

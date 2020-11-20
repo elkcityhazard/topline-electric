@@ -95,23 +95,27 @@ body {
 }
 
 .sidebar {
+  display: none;
+}
+
+.mobile-sidebar {
   background-color: #fff;
-  min-height: 100vh;
 }
 
-.sidebar ul {
+.mobile-sidebar ul {
   list-style: none inside;
-  margin: 0.2em auto 0;
-  max-width: 220px;
+  margin: 0 2em 2em;
+  padding-bottom: 1em;
+  max-width: 100%;
 }
 
-.sidebar ul li {
+.mobile-sidebar ul li {
   background-color: #ffc107;
   min-height: 40px;
   padding-top: 1em;
 }
 
-.sidebar ul li a {
+.mobile-sidebar ul li a {
   display: block;
   height: 100%;
   width: 100%;
@@ -131,6 +135,13 @@ footer {
   margin: 0 auto;
 }
 
+footer::before {
+  background: #4862c5;
+  display: block;
+  content: "";
+  height: 12px;
+}
+
 footer ul {
   list-style: none;
 }
@@ -145,6 +156,10 @@ footer ul {
 
 .three:first-of-type > ul > span {
   margin-top: 1em;
+}
+
+.three {
+  padding-left: 2em;
 }
 
 footer ul li {
@@ -172,12 +187,15 @@ footer a {
 
 footer span a {
   color: #f7b516;
+  font-size: 13px;
+  line-height: 1.5;
+  text-transform: uppercase;
 }
 
 .sub-footer {
   background: #f7b516;
   color: #fff;
-  height: 45px;
+  min-height: 45px;
   margin: 0 auto;
   padding: 0;
 }
@@ -464,6 +482,39 @@ aside ul li {
     transform: scaleX(0.9);
   }
 
+  .sidebar {
+    background-color: #fff;
+    display: block;
+    min-height: 100vh;
+  }
+
+  .sidebar ul {
+    list-style: none inside;
+    margin: 0.2em auto 0;
+    padding-bottom: 1em;
+    max-width: 220px;
+  }
+
+  .sidebar ul li {
+    background-color: #ffc107;
+    min-height: 40px;
+    padding-top: 1em;
+  }
+
+  .sidebar ul li a {
+    display: block;
+    height: 100%;
+    width: 100%;
+  }
+
+  .active-side {
+    border-right: solid 3px #4862c5;
+  }
+
+  .mobile-sidebar {
+    display: none;
+  }
+
   /*****************
   **Content Layout**
   ******************/
@@ -488,13 +539,6 @@ aside ul li {
     background: #fff;
     margin-bottom: 0;
     padding-bottom: 2em;
-  }
-
-  footer::before {
-    background: #4862c5;
-    display: block;
-    content: "";
-    height: 12px;
   }
 
   footer .three:first-child {
