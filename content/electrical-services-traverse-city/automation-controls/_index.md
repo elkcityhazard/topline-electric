@@ -4,6 +4,7 @@ author: Rick Kiehle
 type: page
 layout: single
 url: /electrical-services-traverse-city/automation-controls
+menu: services
 date: 2015-04-29T23:02:31+00:00
 slide_template:
   - default

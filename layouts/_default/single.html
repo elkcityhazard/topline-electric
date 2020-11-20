@@ -2,6 +2,27 @@
 {{ define "title" }}
 {{ end }}
 {{ define "main" }}
-<h1>{{ .Params.menuTitle }}</h1>
-{{ .Content }}
+        <div class="four columns">
+            <aside class="sidebar">
+                <!-- mobile nav start -->
+        <nav class="aside-nav">
+            <ul>
+                {{ $currentPage := . }}
+                {{ range .Site.Menus.services }}
+                <li class="{{if or ($currentPage.IsMenuCurrent "services" .) ($currentPage.HasMenuCurrent "services" .) }} active-side{{end}}">
+                    <a href="{{ .URL }}">
+                        {{ .Pre }}
+                        <span>{{ .Name }}</span>
+                    </a>
+                </li>
+                {{ end }}
+            </ul>
+        </nav>
+            </aside>
+        </div>
+        <div class="eight columns main-content">
+            {{.Content }}
+        </div>
+    </div>
+</div>
 {{ end }}

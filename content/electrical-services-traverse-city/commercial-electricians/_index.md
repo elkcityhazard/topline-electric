@@ -3,6 +3,7 @@ title: Commercial
 author: admin
 type: page
 layout: single
+menu: services
 date: 2014-07-08T13:39:58+00:00
 url: /electrical-services-traverse-city/commercial-electricians
 pyre_slider_position:

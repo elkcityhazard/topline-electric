@@ -31,12 +31,24 @@ menuBtn.addEventListener('click', () => {
 
  window.addEventListener('scroll', () => {
      if (document.body.scrollTop > 80 || document.documentElement.scrollTop > 80) {
-        navContainer.style.padding = ".0em"
+        // navContainer.style.padding = ".0em"
+        // navContainer.style.marginTop: ".em";
     } else if (document.body.scrollTop < 80 || document.documentElement.scrollTop < 80) {
         navContainer.style.padding = "1em"
         }
 
  })
+
+
+
+ /**********
+  * Time Stamp
+  */
+
+ let year = new Date().getFullYear();
+ const cont = document.getElementById('year');
+ cont.innerHTML = `<span>Copyright 2015-${year} Top Line Electrical, LLC | Website developed & hosted by <a href="https://schrader.co" class="footer-brand">Schrader Web Solutions</a></span>`;
+
  
 
 

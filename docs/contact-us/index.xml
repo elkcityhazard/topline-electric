@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Contact Us on Top Line Electric, LLC - Traverse City, Michigan Electrical Services</title>
-    <link>/topline-electric/contact-us/</link>
-    <description>Recent content in Contact Us on Top Line Electric, LLC - Traverse City, Michigan Electrical Services</description>
+    <title>Contact on Top Line Electric, LLC - Traverse City, Michigan Electrical Services</title>
+    <link>/contact-us/</link>
+    <description>Recent content in Contact on Top Line Electric, LLC - Traverse City, Michigan Electrical Services</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     
-	<atom:link href="/topline-electric/contact-us/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="/contact-us/index.xml" rel="self" type="application/rss+xml" />
     
     
   </channel>
