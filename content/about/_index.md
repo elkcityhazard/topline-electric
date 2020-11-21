@@ -12,7 +12,7 @@ For All Your Electrical Needs in Northern Michigan
 
 <div class="row">
 <figure class="flex-img">
-<img src="/images/TLE-AboutUs.jpeg" loading="lazy" width="235px" height="217px">
+<img src="images/TLE-AboutUs.jpeg" loading="lazy" width="235px" height="217px">
 </figure>
 
 Top Line Electric was founded by Blaine Vadeboncoeur in 2006 to fill an unmet demand: reputable electrical construction done right, the way it should be done. Topline Electric has a team of exceptional, service-oriented electricians who care that the client is more than satisfied at project completion.
