@@ -114,74 +114,25 @@ fusion_builder_converted:
   - yes
 
 ---
-# 
-
-#<img loading="lazy" class="alignnone size-full wp-image-249" src="https://toplineelectric.us/wp-content/uploads/2014/07/TLE-NewConstruction.png" alt="TLE-NewConstruction" width="622" height="206" srcset="https://toplineelectric.us/wp-content/uploads/2014/07/TLE-NewConstruction-300x99.png 300w, https://toplineelectric.us/wp-content/uploads/2014/07/TLE-NewConstruction.png 622w" sizes="(max-width: 622px) 100vw, 622px" /> 
+<img loading="lazy" src="https://toplineelectric.us/wp-content/uploads/2014/07/TLE-NewConstruction.png" alt="TLE-NewConstruction" width="100%" height="auto" style="margin-top: 1em;" /> 
 
 # New Construction Electricians
 
-Northern Michigan’s premier General Contractors have depended on Top Line Electric&#8217;s construction electricians since 2006. Regarded as the go-to full-service [electrical contractor][1] capable of handling projects from small to more than $1 million, Top Line Electric’s Contract/Construction division specializes in electrical services for new construction, tenant build-out and remodels/retrofits. Locally owned and operated by Principal Blaine Vadeboncoeur who has 25-plus years experience serving the Traverse City-Northern Michigan area, the company has completed a wide array of projects for top contractors from around the country.
+Northern Michigan’s premier General Contractors have depended on Top Line Electric’s construction electricians since 2006. Regarded as the go-to full-service electrical contractor capable of handling projects from small to more than $1 million, Top Line Electric’s Contract/Construction division specializes in electrical services for new construction, tenant build-out and remodels/retrofits. Locally owned and operated by Principal Blaine Vadeboncoeur who has 25-plus years experience serving the Traverse City-Northern Michigan area, the company has completed a wide array of projects for top contractors from around the country.
 
 ## Commercial Construction and Design
 
-<div class="fusion-fullwidth fullwidth-box fusion-builder-row-11 hundred-percent-fullwidth non-hundred-percent-height-scrolling"  style='background-color: rgba(255,255,255,0);background-position: center center;background-repeat: no-repeat;padding-top:0px;padding-right:0px;padding-bottom:0px;padding-left:0px;'>
-  <div class="fusion-builder-row fusion-row ">
-    <div  class="fusion-layout-column fusion_builder_column fusion_builder_column_1_2 fusion-builder-column-21 fusion-one-half fusion-column-first 1_2"  style='margin-top:0px;margin-bottom:20px;width:50%;width:calc(50% - ( ( 4% ) * 0.5 ) );margin-right: 4%;'>
-      <div class="fusion-column-wrapper" style="padding: 0px 0px 0px 0px;background-position:left top;background-repeat:no-repeat;-webkit-background-size:cover;-moz-background-size:cover;-o-background-size:cover;background-size:cover;"   data-bg-url="">
-        <ul>
-          <li>
-            Academic Institutions
-          </li>
-          <li>
-            Retail &#8211; New & Remodels
-          </li>
-          <li>
-            Financial Institutions
-          </li>
-          <li>
-            Hotels/Lodging
-          </li>
-          <li>
-            Office Space (Core & Shell as well as Tenant Build-Out)
-          </li>
-          <li>
-            Strip Centers
-          </li>
-          <li>
-            Site work
-          </li>
-        </ul>
-        
-        <div class="fusion-clearfix">
-        </div>
-      </div>
-    </div>
-    
-    <div  class="fusion-layout-column fusion_builder_column fusion_builder_column_1_2 fusion-builder-column-22 fusion-one-half fusion-column-last 1_2"  style='margin-top:0px;margin-bottom:20px;width:50%;width:calc(50% - ( ( 4% ) * 0.5 ) );'>
-      <div class="fusion-column-wrapper" style="padding: 0px 0px 0px 0px;background-position:left top;background-repeat:no-repeat;-webkit-background-size:cover;-moz-background-size:cover;-o-background-size:cover;background-size:cover;"   data-bg-url="">
-        <ul>
-          <li>
-            Distribution & Multi-Use Warehouses
-          </li>
-          <li>
-            Parks & Recreation Facilities
-          </li>
-          <li>
-            Multi-Family Dwellings
-          </li>
-          <li>
-            Custom/Spec Homes
-          </li>
-          <li>
-            Lighting Retrofits
-          </li>
-        </ul>
-        
-        <div class="fusion-clearfix">
-        </div>
-      </div>
-    </div>
-  </div>
-</div>
+- Academic Institutions
+- Retail – New & Remodels
+- Financial Institutions
+- Hotels/Lodging
+- Office Space (Core & Shell as well as Tenant Build-Out)
+- Strip Centers
+- Site work
 
- [1]: https://toplineelectric.us/ "Home"
+* Distribution & Multi-Use Warehouses
+* Parks & Recreation Facilities
+* Multi-Family Dwellings
+* Custom/Spec Homes
+* Lighting Retrofits
+

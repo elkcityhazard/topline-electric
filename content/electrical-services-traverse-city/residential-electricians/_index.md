@@ -139,7 +139,7 @@ fusion_builder_converted:
   - yes
 
 ---
-#<img loading="lazy" class="alignnone size-full wp-image-242" src="https://toplineelectric.us/wp-content/uploads/2014/07/TLE-Residential.png" alt="TLE-Residential" width="622" height="206" srcset="https://toplineelectric.us/wp-content/uploads/2014/07/TLE-Residential-300x99.png 300w, https://toplineelectric.us/wp-content/uploads/2014/07/TLE-Residential.png 622w" sizes="(max-width: 622px) 100vw, 622px" /> 
+<img loading="lazy" src="https://toplineelectric.us/wp-content/uploads/2014/07/TLE-Residential.png" alt="TLE-Residential" width="100%" height="auto"  style="margin-top: 1em;" /> 
 
 # Residential Electricians
 
@@ -147,136 +147,50 @@ Remodeling your present home has never made more economic sense than it does tod
 
 When looking for quality electrical service, look first to Top Line Electric for such work as:
 
-<div class="fusion-fullwidth fullwidth-box fusion-builder-row-8 hundred-percent-fullwidth non-hundred-percent-height-scrolling"  style='background-color: rgba(255,255,255,0);background-position: center center;background-repeat: no-repeat;padding-top:0px;padding-right:0px;padding-bottom:0px;padding-left:0px;'>
-  <div class="fusion-builder-row fusion-row ">
-    <div  class="fusion-layout-column fusion_builder_column fusion_builder_column_1_2 fusion-builder-column-13 fusion-one-half fusion-column-first 1_2"  style='margin-top:0px;margin-bottom:20px;width:50%;width:calc(50% - ( ( 4% ) * 0.5 ) );margin-right: 4%;'>
-      <div class="fusion-column-wrapper" style="padding: 0px 0px 0px 0px;background-position:left top;background-repeat:no-repeat;-webkit-background-size:cover;-moz-background-size:cover;-o-background-size:cover;background-size:cover;"   data-bg-url="">
-        <ul>
-          <li>
-            New construction
-          </li>
-          <li>
-            Remodeling
-          </li>
-          <li>
-            Generator supply and installations
-          </li>
-          <li>
-            Service upgrades
-          </li>
-          <li>
-            Breaker panel upgrades and repairs
-          </li>
-          <li>
-            Outlets and switches
-          </li>
-          <li>
-            Custom lighting installation, upgrades and repairs
-          </li>
-          <li>
-            Outdoor security and garden lighting
-          </li>
-          <li>
-            Electrical service inspections
-          </li>
-          <li>
-            Kitchen and bathroom remodels
-          </li>
-          <li>
-            New designer fixtures for the kitchen and bath
-          </li>
-          <li>
-            Basement finish wiring
-          </li>
-          <li>
-            Home theater wiring
-          </li>
-          <li>
-            Home entertainment system setup
-          </li>
-          <li>
-            Surround Sound
-          </li>
-          <li>
-            Intercom systems
-          </li>
-          <li>
-            Custom/spec home wiring
-          </li>
-          <li>
-            Computer/phone/cable TV wiring
-          </li>
-        </ul>
-        
-        <div class="fusion-clearfix">
-        </div>
-      </div>
-    </div>
-    
-    <div  class="fusion-layout-column fusion_builder_column fusion_builder_column_1_2 fusion-builder-column-14 fusion-one-half fusion-column-last 1_2"  style='margin-top:0px;margin-bottom:20px;width:50%;width:calc(50% - ( ( 4% ) * 0.5 ) );'>
-      <div class="fusion-column-wrapper" style="padding: 0px 0px 0px 0px;background-position:left top;background-repeat:no-repeat;-webkit-background-size:cover;-moz-background-size:cover;-o-background-size:cover;background-size:cover;"   data-bg-url="">
-        <ul>
-          <li>
-            Troubleshooting
-          </li>
-          <li>
-            Insurance claims
-          </li>
-          <li>
-            Inspections and testing
-          </li>
-          <li>
-            Appliance circuits
-          </li>
-          <li>
-            Hot tubs/spas
-          </li>
-          <li>
-            220 range and dryer outlets
-          </li>
-          <li>
-            Code corrections
-          </li>
-          <li>
-            Custom/spec home wiring
-          </li>
-          <li>
-            Ceiling and attic fans
-          </li>
-          <li>
-            Exhaust fans
-          </li>
-          <li>
-            Wine cellar chilling systems
-          </li>
-          <li>
-            Computer/phone/cable TV wiring
-          </li>
-          <li>
-            Lighting controls and design
-          </li>
-          <li>
-            Generator installations
-          </li>
-          <li>
-            Underground wiring
-          </li>
-          <li>
-            Kitchen and bathroom remodels
-          </li>
-          <li>
-            New designer fixtures for the kitchen and bath
-          </li>
-          <li>
-            Basement finish wiring
-          </li>
-        </ul>
-        
-        <div class="fusion-clearfix">
-        </div>
-      </div>
-    </div>
-  </div>
+<div class="row">
+<section class="six columns">
+
+- New construction
+- Remodeling
+- Generator supply and installations
+- Service upgrades
+- Breaker panel upgrades and repairs
+- Outlets and switches
+- Custom lighting installation, upgrades and repairs
+- Outdoor security and garden lighting
+- Electrical service inspections
+- Kitchen and bathroom remodels
+- New designer fixtures for the kitchen and bath
+- Basement finish wiring
+- Home theater wiring
+- Home entertainment system setup
+- Surround Sound
+- Intercom systems
+- Custom/spec home wiring
+- Computer/phone/cable TV wiring
+
+</section>
+<section class="six columns">
+
+- Troubleshooting
+- Insurance claims
+- Inspections and testing
+- Appliance circuits
+- Hot tubs/spas
+- 220 range and dryer outlets
+- Code corrections
+- Custom/spec home wiring
+- Ceiling and attic fans
+- Exhaust fans
+- Wine cellar chilling systems
+- Computer/phone/cable TV wiring
+- Lighting controls and design
+- Generator installations
+- Underground wiring
+- Kitchen and bathroom remodels
+- New designer fixtures for the kitchen and bath
+- Basement finish wiring
+
+</section>
 </div>
 
- [1]: https://toplineelectric.us/ "Home"

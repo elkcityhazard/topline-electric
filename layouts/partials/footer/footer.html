@@ -1,21 +1,3 @@
-<div class="row">
-    <aside class="mobile-sidebar">
-        <!-- mobile nav start -->
-<nav class="aside-nav">
-    <ul>
-        {{ $currentPage := . }}
-        {{ range .Site.Menus.services }}
-        <li class="{{if or ($currentPage.IsMenuCurrent "services" .) ($currentPage.HasMenuCurrent "services" .) }} active-side{{end}}">
-            <a href="{{ .URL }}">
-                {{ .Pre }}
-                <span>{{ .Name }}</span>
-            </a>
-        </li>
-        {{ end }}
-    </ul>
-</nav>
-    </aside>
-</div>
 <footer>
 <div class="row">
         <div class="three columns"><ul>
@@ -34,14 +16,14 @@
         </ul></div>
         <div class="three columns"><ul>
             <span><a href="/electrical-services-traverse-city">Services</a></span>
-            <li><a href="/electrical-service-traverse-city/automation-controls/">Automation Controls</a></li>
-            <li><a href="/electrical-service-traverse-city/residential-electricians/">Residential</a></li>
-            <li><a href="/electrical-service-traverse-city/commercial-electricians/">Commercial</a></li>
-            <li><a href="/electrical-service-traverse-city/industrial-electricians/">Industrial</a></li>
-            <li><a href="/electrical-service-traverse-city/new-construction-electricians/">New Construction</a></li>
-            <li><a href="/electrical-service-traverse-city/remodel-home-electricians/">Remodel</a></li>
-            <li><a href="/electrical-service-traverse-city/emergency-electric-service">Emergency Services</a></li>
-            <li><a href="/electrical-service-traverse-city/">Facility Maintenance</a></li>
+            <li><a href="/electrical-services-traverse-city/automation-controls/">Automation Controls</a></li>
+            <li><a href="/electrical-services-traverse-city/residential-electricians/">Residential</a></li>
+            <li><a href="/electrical-services-traverse-city/commercial-electricians/">Commercial</a></li>
+            <li><a href="/electrical-services-traverse-city/industrial-electricians/">Industrial</a></li>
+            <li><a href="/electrical-services-traverse-city/new-construction-electricians/">New Construction</a></li>
+            <li><a href="/electrical-services-traverse-city/remodel-home-electricians/">Remodel</a></li>
+            <li><a href="/electrical-services-traverse-city/emergency-electric-service">Emergency Services</a></li>
+            <li><a href="/electrical-services-traverse-city/facility-maintenance">Facility Maintenance</a></li>
         </ul></div>
         <div class="three columns"><ul>
             <span><a href="/">Electrical Service</a></span>
@@ -55,14 +37,20 @@
     </div>
         <div class="three columns"><ul>
             <a href="{{ .Site.BaseURL}}">
-                <img src="{{.Site.BaseURL}}/images/footer/contact.png" class="footer-img" alt="return to home page">
+                <img src="{{.Site.BaseURL}}images/footer/contact.png" class="footer-img" alt="return to home page">
             </a>
         </ul>
     </div>
 </div>
-</footer>
 <div class="sub-footer">
     <div class="container" id="year">
     </div>
 </div>
-<script src="{{.Site.BaseURL}}/scripts/mobile.js"></script>
+</footer>
+<div class="contact-wrapper">
+    <div class="contact-now">
+        <span><a href="tel:+18669228626" title="call now">&#9990;</a></span>
+        <a id="toTop" href="#top">&#8607;</a> 
+    </div>
+</div>
+<script src="{{.Site.BaseURL}}scripts/mobile.js"></script>

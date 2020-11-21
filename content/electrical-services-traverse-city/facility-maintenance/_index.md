@@ -4,6 +4,7 @@ author: admin
 type: page
 layout: single
 menu: services
+url: electrical-services-traverse-city/facility-maintenance
 date: 2014-07-08T13:43:19+00:00
 pyre_slider_position:
   - default
@@ -105,7 +106,7 @@ fusion_builder_converted:
   - yes
 
 ---
-#<img loading="lazy" class="alignnone size-full wp-image-261" src="https://toplineelectric.us/wp-content/uploads/2014/07/TLE-FacilityMaintenance.png" alt="TLE-FacilityMaintenance" width="622" height="206" srcset="https://toplineelectric.us/wp-content/uploads/2014/07/TLE-FacilityMaintenance-300x99.png 300w, https://toplineelectric.us/wp-content/uploads/2014/07/TLE-FacilityMaintenance.png 622w" sizes="(max-width: 622px) 100vw, 622px" /> 
+<img loading="lazy" src="https://toplineelectric.us/wp-content/uploads/2014/07/TLE-FacilityMaintenance.png" alt="TLE-FacilityMaintenance" width="100%" height="auto" style="margin-top: 1em;" /> 
 
 # Your Electricians for Facility Maintenance
 

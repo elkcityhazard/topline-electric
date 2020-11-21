@@ -132,7 +132,7 @@ fusion_builder_converted:
   - yes
 
 ---
-#<img loading="lazy" class="alignnone wp-image-251 size-full" src="https://toplineelectric.us/wp-content/uploads/2014/07/TLE-Remodel.png" alt="Remodel Home Electricians Traverse City MI" width="622" height="206" srcset="https://toplineelectric.us/wp-content/uploads/2014/07/TLE-Remodel-300x99.png 300w, https://toplineelectric.us/wp-content/uploads/2014/07/TLE-Remodel.png 622w" sizes="(max-width: 622px) 100vw, 622px" /> 
+<img loading="lazy" src="https://toplineelectric.us/wp-content/uploads/2014/07/TLE-Remodel.png" alt="Remodel Home Electricians Traverse City MI" width="100%" height="auto" style="margin-top: 1em;" /> 
 
 # Remodel
 
@@ -142,102 +142,29 @@ Security is one of the big concerns of homeowners today and for that Top Line El
 
 Some of the electrical features that residential homeowners are including in their remodeling projects—features that Top Line Electric routinely installs—are:
 
-<div class="fusion-fullwidth fullwidth-box fusion-builder-row-12 hundred-percent-fullwidth non-hundred-percent-height-scrolling"  style='background-color: rgba(255,255,255,0);background-position: center center;background-repeat: no-repeat;padding-top:0px;padding-right:0px;padding-bottom:0px;padding-left:0px;'>
-  <div class="fusion-builder-row fusion-row ">
-    <div  class="fusion-layout-column fusion_builder_column fusion_builder_column_1_2 fusion-builder-column-23 fusion-one-half fusion-column-first 1_2"  style='margin-top:0px;margin-bottom:20px;width:50%;width:calc(50% - ( ( 4% ) * 0.5 ) );margin-right: 4%;'>
-      <div class="fusion-column-wrapper" style="padding: 0px 0px 0px 0px;background-position:left top;background-repeat:no-repeat;-webkit-background-size:cover;-moz-background-size:cover;-o-background-size:cover;background-size:cover;"   data-bg-url="">
-        <ul>
-          <li>
-            Electrical service upgrades
-          </li>
-          <li>
-            Breaker panel upgrades and repairs
-          </li>
-          <li>
-            Lighting installation and repairs
-          </li>
-          <li>
-            Outdoor security lighting
-          </li>
-          <li>
-            Kitchen and bath remodels
-          </li>
-          <li>
-            Basement finish wiring
-          </li>
-          <li>
-            Home theater wiring
-          </li>
-          <li>
-            Appliance circuits
-          </li>
-        </ul>
-        
-        <div class="fusion-clearfix">
-        </div>
-      </div>
-    </div>
-    
-    <div  class="fusion-layout-column fusion_builder_column fusion_builder_column_1_2 fusion-builder-column-24 fusion-one-half fusion-column-last 1_2"  style='margin-top:0px;margin-bottom:20px;width:50%;width:calc(50% - ( ( 4% ) * 0.5 ) );'>
-      <div class="fusion-column-wrapper" style="padding: 0px 0px 0px 0px;background-position:left top;background-repeat:no-repeat;-webkit-background-size:cover;-moz-background-size:cover;-o-background-size:cover;background-size:cover;"   data-bg-url="">
-        <ul>
-          <li>
-            Hot tubs/spas
-          </li>
-          <li>
-            220 range and dryer outlets &#8211; sometimes two or three in a home
-          </li>
-          <li>
-            Ceiling and attic fans
-          </li>
-          <li>
-            Wine cellar chilling systems
-          </li>
-          <li>
-            Computer/phone/cable TV wiring
-          </li>
-          <li>
-            Generator installation
-          </li>
-          <li>
-            Photovoltaic
-          </li>
-        </ul>
-        
-        <div class="fusion-clearfix">
-        </div>
-      </div>
-    </div>
-    
-    <p>
-      Under-cabinet kitchen lighting, mini-pendants, in-floor lighting, chandeliers in rooms like the bathroom vs. the dining room, built-in coffee pots and blenders, warming ovens and billiards lighting are commonplace anymore. Our job at Top Line Electric in Traverse City, MI is to bring homes into the 21st Century so that owners can access as much power as they require without draping extension cords through the house and into the yard.
-    </p>
-    
-    <h2>
-      Kitchen Remodels
-    </h2>
-    
-    <p>
-      If you’re weighing what room in your home to remodel to get the most bang out of your investment buck, start with the kitchen, the most used room in a home. At the foundation of kitchen operations is safe electrical service with ample outlets to handle multiple functions at once.
-    </p>
-    
-    <p>
-      Replacing outdated lighting, especially the recessed fluorescent fixtures so popular in the 70s and 80s goes a long way to putting a new face on an older kitchen. Flip through a home design magazine and you’ll notice the new kitchens are outfitted with recessed lighting on the ceiling, optimally controlled with dimmer switches, plus pendant lighting, mini pendants and island lighting that can convert your interest in wanting to dine out to staying in. Under-cabinet lighting highlights the counter surface and makes it easier to work effectively. Commercial grade ventilation fans can put a stop to your smoke detector going off every time you get the urge to cook. Not to mention that smoke detectors save lives and didn’t used to be a requirement, but are now. Whether your remodeling project is limited to changing out a light fixture, adding smoke detectors or gutting the room to start from scratch, the professional electricians at Top Line Electric in Traverse City, MI can make sure that your investment is safe and passes code.
-    </p>
-    
-    <h2>
-      Bath Remodels
-    </h2>
-    
-    <p>
-      On a par with kitchen remodels, bath remodels weigh in as an investment that will pay off when it comes time to sell.
-    </p>
-    
-    <p>
-      Today’s families use significantly more electrical appliances on a regular basis than older bathrooms can accommodate. Electric rollers, hair dryers and flat irons, electric toothbrushes and Waterpiks, razors and radios, even TVs can be found in a modern bathroom. Good lighting is essential to meticulous grooming &#8211; in front of the mirror or in the bathtub. Lighting dimmers can write the mood for a relaxing soak in your jetted tub.
-    </p>
-    
-    <p>
-      Gone are the days of the single bathroom home and the bathroom lit with a single ceiling bulb. Let Top Line Electric recommend ways that you can use light smarter in your bathroom remodeling project.</div></div>
+<div class="row">
+<section class="six columns">
 
- [1]: https://toplineelectric.us/ "Home"
+- Electrical service upgrades
+- Breaker panel upgrades and repairs
+- Lighting installation and repairs
+- Outdoor security lighting
+- Kitchen and bath remodels
+- Basement finish wiring
+- Home theater wiring
+- Appliance circuits
+
+</section>
+<section class="six columns">
+
+* Hot tubs/spas
+* 220 range and dryer outlets – sometimes two or three in a home
+* Ceiling and attic fans
+* Wine cellar chilling systems
+* Computer/phone/cable TV wiring
+* Generator installation
+* Photovoltaic
+* Kitchen Remodels
+* Bath Remodels
+</section>
+</div>

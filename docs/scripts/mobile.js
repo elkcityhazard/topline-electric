@@ -5,7 +5,8 @@ let listItems = document.querySelectorAll('.desktop-nav ul li');
 let links = document.querySelectorAll('.desktop-nav ul li a');
 let topRow = document.querySelector('.row .header-top-nav .row .desktop-nav');
 let logoImg = document.querySelector('a.center img');
-let navContainer = document.querySelector('.header-top-nav')
+let navContainer = document.querySelector('.header-top-nav');
+let listBefore = document.querySelector('.desktop-nav > ul');
 let toggle = false;
 
 
@@ -29,15 +30,24 @@ menuBtn.addEventListener('click', () => {
  * Sticky Header
  */
 
- window.addEventListener('scroll', () => {
-     if (document.body.scrollTop > 80 || document.documentElement.scrollTop > 80) {
-        // navContainer.style.padding = ".0em"
-        // navContainer.style.marginTop: ".em";
-    } else if (document.body.scrollTop < 80 || document.documentElement.scrollTop < 80) {
-        navContainer.style.padding = "1em"
-        }
 
- })
+        window.addEventListener('scroll', () => {
+            if (window.innerWidth >= 801) {
+                    if (document.body.scrollTop > 80 || document.documentElement.scrollTop > 80) {
+                    navContainer.style.height = 70 + 'px';
+                    listBefore.style.marginTop = 20 + 'px';
+            
+                } else if (document.body.scrollTop < 80 || document.documentElement.scrollTop < 80) {
+                    navContainer.style.height = 86 + 'px';
+                    listBefore.style.marginTop = 0 + 'px';
+            
+                }
+            } else {
+                return;
+            }
+        })    
+    
+ 
 
 
 

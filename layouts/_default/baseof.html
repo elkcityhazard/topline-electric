@@ -7,13 +7,13 @@
     <meta name="description" content="{{.Params.description}}">
     <meta name="keywords" content="{{.Params.keywords}}">
     <meta name="author" content="Andrew M McCall">
-    <title>{{ block "title" . }} {{.Site.Title}}  {{ end }}</title>
+    <title>{{ block "title" . }} {{.Site.Title}} - {{.Params.Title}}  {{ end }}</title>
     <link rel="author" href="https://andrew-mccall.com">
-    <link rel="stylesheet" href="{{ .Site.BaseURL }}/css/normalize.css">
-    <link rel="stylesheet" href="{{ .Site.BaseURL }}/css/skeleton.css">
-    <link rel="stylesheet" href="{{ .Site.BaseURL }}/css/custom.css">
+    <link rel="stylesheet" href="{{ .Site.BaseURL }}css/normalize.css">
+    <link rel="stylesheet" href="{{ .Site.BaseURL }}css/skeleton.css">
+    <link rel="stylesheet" href="{{ .Site.BaseURL }}css/custom.css">
 </head>
-<body>
+<body id="top">
     <div class="wrapper">
         {{ partial "header/site-header.html" . }}
         <div class="row u-max-full-width">

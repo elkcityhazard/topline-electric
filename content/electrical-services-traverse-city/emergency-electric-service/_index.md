@@ -104,7 +104,7 @@ fusion_builder_converted:
   - yes
 
 ---
-#<img loading="lazy" class="alignnone size-full wp-image-253" src="https://toplineelectric.us/wp-content/uploads/2014/07/TLE-EmergencyServices.png" alt="TLE-EmergencyServices" width="622" height="206" srcset="https://toplineelectric.us/wp-content/uploads/2014/07/TLE-EmergencyServices-300x99.png 300w, https://toplineelectric.us/wp-content/uploads/2014/07/TLE-EmergencyServices.png 622w" sizes="(max-width: 622px) 100vw, 622px" /> 
+<img loading="lazy" class="alignnone size-full wp-image-253" src="https://toplineelectric.us/wp-content/uploads/2014/07/TLE-EmergencyServices.png" alt="TLE-EmergencyServices" width="622" height="206" srcset="https://toplineelectric.us/wp-content/uploads/2014/07/TLE-EmergencyServices-300x99.png 300w, https://toplineelectric.us/wp-content/uploads/2014/07/TLE-EmergencyServices.png 622w" sizes="(max-width: 622px) 100vw, 622px" style="margin-top: 1em;"/> 
 
 # Emergency Services
 
